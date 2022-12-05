@@ -1,0 +1,9 @@
+System plików  rozm. użyte dost. %uż. zamont. na
+udev            283M     0  283M   0% /dev
+tmpfs            60M  996K   59M   2% /run
+/dev/sda1        15G  9,6G  4,4G  69% /
+tmpfs           300M     0  300M   0% /dev/shm
+tmpfs           5,0M     0  5,0M   0% /run/lock
+/dev/sdb1        30G  8,8G   20G  31% /mnt/sdb1
+tmpfs            60M   28K   60M   1% /run/user/1000
+tmpfs            60M   36K   60M   1% /run/user/113
